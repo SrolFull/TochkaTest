@@ -1,4 +1,4 @@
-App for Android
+App for Android marshmellow and higher
 <br>App version: 1.0
 <br>Main language: Java
 <br>Libraries used: Retrofit 2, ok Http, Picasso, Material 
