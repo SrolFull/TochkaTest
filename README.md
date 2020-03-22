@@ -1,5 +1,5 @@
 App for Android
-App version: 1.0
-Main language: Java
-Libraries used: Retrofit 2, ok Http, Picasso, Material 
-The app allows you to find a Github user by nickname and view their repositories
+<br>App version: 1.0
+<br>Main language: Java
+<br>Libraries used: Retrofit 2, ok Http, Picasso, Material 
+<br>The app allows you to find a Github user by nickname and view their repositories
